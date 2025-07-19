@@ -18,12 +18,7 @@ HTML5 – Semantic and accessible markup
 CSS3 – Custom styling for layout and responsiveness
 
 (No frameworks or JavaScript used)
-
-📁 project-root
- ┣ 📁 image/            # Contains screenshot or project images
- ┣ 📄 style1.css        # Main stylesheet
- ┣ 📄 index.html        # Homepage HTML
- ┗ 📄 README.md         # Project description
+<pre> 📁 project-root ┣ 📁 image/ # Contains screenshot or project images ┣ 📄 style1.css # Main stylesheet ┣ 📄 index.html # Homepage HTML ┗ 📄 README.md # Project description </pre>
 
 
 📌 Notes
