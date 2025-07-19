@@ -56,15 +56,18 @@ prime-video-ui-clone/
 ![Screenshot](./image/Screenshot.jpg)
 
 
-## 🔗 Live Demo 
+## 🔗 Live Demo
 You can view the live project here:  
-https://prime-video-ui-clone.vercel.app/
+👉 https://prime-video-ui-clone.vercel.app/
 
 
-## ℹ️ Notes :-
-This is a static UI project created for learning and personal development.  
-No backend or interactive functionality is included.  
+---
+
+### ℹ️ Notes
+
+<p style="font-size: 16px;">
+This is a static UI project created for learning and personal development.<br>
+No backend or interactive functionality is included.<br>
 Inspired by Amazon Prime Video, but all assets are original or placeholders.
-
-
+</p>
 
