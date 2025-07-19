@@ -35,5 +35,5 @@ Edit
    ┗ 📄 index.html
 
 📸 Screenshots
-![Screenshot](image\Screenshot.jpg)
+![Screenshot](Screenshot.jpg)
 
