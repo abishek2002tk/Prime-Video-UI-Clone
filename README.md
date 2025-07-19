@@ -1,30 +1,43 @@
-📺 Prime Video UI Clone
-A responsive and visually appealing clone of the Prime Video homepage built using HTML and CSS. This project replicates the layout and design elements of Amazon Prime Video, including the navbar, hero banner, movie cards, and footer — perfect for practicing front-end development and UI/UX skills.
+📺 Prime Video UI Clone (Practice Project)
+This is a responsive UI clone of the Prime Video homepage, built using only HTML and CSS. It was created as a practice project to improve my front-end development skills, focusing on layout structure, responsiveness, and real-world UI design replication.
 
-🚀 Features
-🎬 Homepage layout inspired by Prime Video
+---
 
-🧭 Navigation bar with logo and links
+## 🧰 Tech Stack
 
-🖼️ Movie/show thumbnails with hover effects
+- HTML
+- CSS
 
-🎞️ Responsive design for desktop, tablet, and mobile
+---
 
-🌙 Dark-themed interface (visually similar to Prime Video)
+🎯 Purpose
+✅ Practice writing semantic HTML structure
 
-🛠️ Tech Stack
-HTML5 – Semantic and accessible markup
+📱 Learn and apply responsive design using media queries
 
-CSS3 – Custom styling for layout and responsiveness
+🎨 Improve layout building with Flexbox and CSS Grid
 
-(No frameworks or JavaScript used)
-<pre> 📁 project-root ┣ 📁 image/ # Contains screenshot or project images ┣ 📄 style1.css # Main stylesheet ┣ 📄 index.html # Homepage HTML ┗ 📄 README.md # Project description </pre>
+🧠 Strengthen core HTML & CSS skills through a real-world UI clone
 
+🖥️ Create a portfolio-worthy frontend project
+---
 
-📌 Notes
-This is a static front-end clone created for learning and practice purposes.
-
+## 
 📸 Screenshot
 ![Screenshot](./image/Screenshot.jpg)
+
+---
+
+## 🚀 Live Demo
+
+🔗 [View Project](https://study-sync-project-amber.vercel.app)
+
+---
+
+
+
+
+
+
 
 
