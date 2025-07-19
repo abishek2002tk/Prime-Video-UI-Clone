@@ -34,6 +34,6 @@ Edit
    ┗ 📄 style.css
    ┗ 📄 index.html
 
-📸 Screenshots
-![Screenshot](Screenshot.jpg)
+📸![Screenshot](./images/Screenshot.jpg)
+
 
