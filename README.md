@@ -63,9 +63,9 @@ You can view the live project here:
 
 ---
 
-### ℹ️ Notes
+ℹ️ Notes
 
-<p style="font-size: 16px;">
+<p style="font-size: 26px;">
 This is a static UI project created for learning and personal development.<br>
 No backend or interactive functionality is included.<br>
 Inspired by Amazon Prime Video, but all assets are original or placeholders.
