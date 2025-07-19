@@ -1,39 +1,39 @@
 📺 Prime Video UI Clone
-A responsive and visually appealing Prime Video UI Clone built using React.js and Tailwind CSS. This project replicates the layout and basic design of Amazon Prime Video, including the navbar, hero section, movie cards, and categories, with a focus on UI/UX design principles.
+A responsive and visually appealing clone of the Prime Video homepage built using HTML and CSS. This project replicates the layout and design elements of Amazon Prime Video, including the navbar, hero banner, movie cards, and footer — perfect for practicing front-end development and UI/UX skills.
 
 🚀 Features
 🎬 Homepage layout inspired by Prime Video
 
-🔍 Search bar (UI only)
-
-🧭 Navigation bar with Prime branding
+🧭 Navigation bar with logo and links
 
 🖼️ Movie/show thumbnails with hover effects
 
 🎞️ Responsive design for desktop, tablet, and mobile
 
-🌙 Dark-themed interface
+🌙 Dark-themed interface (visually similar to Prime Video)
 
 🛠️ Tech Stack
-React.js (Functional Components + Hooks)
+HTML5 – Semantic and accessible markup
 
-Tailwind CSS (Utility-first CSS framework)
+CSS3 – Custom styling for layout and responsiveness
 
-React Icons (for using Prime-like icons)
-
-Vite (for fast development build)
+(No frameworks or JavaScript used)
 
 📂 Folder Structure
-css
+bash
 Copy
 Edit
 📁 project-root
- ┣ 📁 assets
- ┣ 📁 images        # All images and logos
- ┗ 📁 css
-   ┗ 📄 style.css
-   ┗ 📄 index.html
+ ┣ 📁 assets/
+ ┃ ┗ 📁 images/        # All images and logos
+ ┣ 📁 css/
+ ┃ ┗ 📄 style.css      # Main stylesheet
+ ┣ 📄 index.html        # Main homepage file
+ ┗ 📄 README.md
+📸 Screenshot
 
-📸![Screenshot](./images/Screenshot.jpg)
+📌 Notes
+This is a static front-end clone created for learning and practice purposes only.
 
+No backend or real data/API integration.
 
