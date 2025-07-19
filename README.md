@@ -19,23 +19,17 @@ CSS3 – Custom styling for layout and responsiveness
 
 (No frameworks or JavaScript used)
 
-📂 Folder Structure
-bash
-Copy
-Edit
 📁 project-root
- ┣ 📁 assets/
- ┃ ┗ 📁 images/        # All images and logos
- ┣ 📁 css/
- ┃ ┗ 📄 style.css      # Main stylesheet
- ┣ 📄 index.html        # Main homepage file
- ┗ 📄 README.md
-📸 Screenshot
+ ┣ 📁 image/            # Contains screenshot or project images
+ ┣ 📄 style1.css        # Main stylesheet
+ ┣ 📄 index.html        # Homepage HTML
+ ┗ 📄 README.md         # Project description
+
 
 📌 Notes
 This is a static front-end clone created for learning and practice purposes.
 
-
+📸 Screenshot
 ![Screenshot](./image/Screenshot.jpg)
 
 
