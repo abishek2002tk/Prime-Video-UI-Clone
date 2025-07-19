@@ -33,7 +33,9 @@ Edit
 📸 Screenshot
 
 📌 Notes
-This is a static front-end clone created for learning and practice purposes only.
+This is a static front-end clone created for learning and practice purposes.
 
-No backend or real data/API integration.
+
+![Screenshot](./image/Screenshot.jpg)
+
 
