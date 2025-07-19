@@ -1,4 +1,4 @@
-📺 Prime Video UI Clone (Practice Project)
+📺 Prime Video UI Clone (Practice Project)<br/>
 This is a responsive UI clone of the Prime Video homepage, built using only HTML and CSS. It was created as a practice project to improve my front-end development skills, focusing on layout structure, responsiveness, and real-world UI design replication.
 
 ---
