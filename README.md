@@ -4,7 +4,7 @@ A responsive front-end clone of the Amazon Prime Video homepage, built using HTM
 
 ---
 
-🎯 Purpose
+🎯 Purpose<br/>
 Practice writing clean, semantic HTML
 
 Strengthen CSS layout techniques (Flexbox, Grid)
@@ -17,7 +17,7 @@ Gain experience replicating real brand designs
 
 ---
 
-🚀 Features
+🚀 Features<br/>
 🧭 Fixed navigation bar with logo and links
 
 🎬 Hero/banner section with featured content
@@ -53,7 +53,7 @@ Edit
  <pre/>
 ---
  
-📸 Screenshot
+📸 Screenshot<br/>
 ![Screenshot](./image/Screenshot.jpg)
 
 
