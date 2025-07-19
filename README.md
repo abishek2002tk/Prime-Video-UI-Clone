@@ -56,6 +56,9 @@ prime-video-ui-clone/
 ![Screenshot](./image/Screenshot.jpg)
 
 
+## 🔗 Live Demo 
+You can view the live project here :-
+https://prime-video-ui-clone.vercel.app/
 
 
 📌 Notes :-
